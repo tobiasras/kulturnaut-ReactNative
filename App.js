@@ -3,7 +3,7 @@ import {Image, StyleSheet, Text, View} from 'react-native';
 
 const businessCard = {
     imageUrl: "https://tinypng.com/images/social/website.jpg",
-    companyName: "Volvo",
+    companyName: "Volvoo",
     quote: "Volvo. For life.",
     employee: [
         "Tobias Juul Rasmussen",
